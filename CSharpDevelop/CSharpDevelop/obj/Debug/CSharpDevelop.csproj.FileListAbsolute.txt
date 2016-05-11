@@ -1,0 +1,5 @@
+D:\Performance-Test\CSharpDevelop\CSharpDevelop\bin\Debug\CSharpDevelop.exe
+D:\Performance-Test\CSharpDevelop\CSharpDevelop\bin\Debug\CSharpDevelop.pdb
+D:\Performance-Test\CSharpDevelop\CSharpDevelop\obj\Debug\CSharpDevelop.csprojResolveAssemblyReference.cache
+D:\Performance-Test\CSharpDevelop\CSharpDevelop\obj\Debug\CSharpDevelop.exe
+D:\Performance-Test\CSharpDevelop\CSharpDevelop\obj\Debug\CSharpDevelop.pdb
